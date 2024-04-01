@@ -1,0 +1,17 @@
+{
+  "kind": "column",
+  "name": "Reformat Date String",
+  "description": "Reformats a date string into MM/DD/YY format.",
+  "author": "Your Name <your_email@example.com>",
+  "params": [
+    {
+      "name": "dateString",
+      "displayName": "Date String",
+      "type": "string"
+    }
+  ],
+  "result": {
+    "type": "string"
+  }
+}
+
